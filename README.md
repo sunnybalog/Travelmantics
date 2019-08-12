@@ -1,2 +1,6 @@
 # Travelmantics
-Part of ALC4.0 Learning phase
+
+an Android App based on Java
+
+Challenge 2 of Andela Learning Community 4.0 in partnershp with Google.
+
